@@ -1,0 +1,19 @@
+.outerpart2{
+    width: 75%;
+    position: relative;
+    
+  }
+  .outerpart2{
+    overflow-y: hidden;
+  }
+  .outerpart2:hover .b9{
+    animation-name: back;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+  }
+  .b9{
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.733);
+    margin-top: -295px;
+  }
