@@ -49,7 +49,7 @@ function About() {
                     </div>
                     
 
-                    <a href="https://drive.google.com/file/d/1ebIAkcbgkaD2kRRhvaO5ntPqKV2Jhpnl/view?usp=drivesdk" target='_blank' download={"Alvin_Joy_Resume.pdf"}><button className="btn1 text-light fw-bolder mt-5" download="../assets/resume.pdf">DOWNLOAD CV</button></a>
+                    <a href="https://drive.google.com/file/d/1JWZCEuzhW-23jaTNcEaUqbwBxxg9vOSv/view?usp=sharing" target='_blank' download={"Alvin_Joy_Resume.pdf"}><button className="btn1 text-light fw-bolder mt-5" download="../assets/resume.pdf">DOWNLOAD CV</button></a>
                 </div>
         </div>
         
